@@ -1,4 +1,4 @@
-path <- "C:/Users/Lucas Teixeira/Documents/John Hopkins Data Science Course/Coursera-C2-W2/Data"
+path <- "C:/Users/Lucas Teixeira/Documents/John Hopkins Data Science Course/Coursera-C2-W1/Data"
 
 filename <- "hw1_data.csv"
 
